@@ -1,0 +1,11 @@
+{
+  "exec": "npm run start",
+  "watch": [
+    "controller/*",
+    "db/*",
+    "models/*",
+    "routes/*",
+    "src/*"
+  ],
+  "ext": "js, html, css, json"
+}
